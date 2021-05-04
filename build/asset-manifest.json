@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.cd602b09.chunk.js",
+    "main.js.map": "/static/js/main.cd602b09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e744e3f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e744e3f7.js.map",
+    "static/js/2.e67a0990.chunk.js": "/static/js/2.e67a0990.chunk.js",
+    "static/js/2.e67a0990.chunk.js.map": "/static/js/2.e67a0990.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e67a0990.chunk.js.LICENSE.txt": "/static/js/2.e67a0990.chunk.js.LICENSE.txt",
+    "static/media/Location.edf6f92c.svg": "/static/media/Location.edf6f92c.svg",
+    "static/media/gradiente2.f5edab1e.png": "/static/media/gradiente2.f5edab1e.png",
+    "static/media/logo-white.4c34f933.png": "/static/media/logo-white.4c34f933.png",
+    "static/media/phones.5d875b46.png": "/static/media/phones.5d875b46.png",
+    "static/media/streaming.24eb459d.png": "/static/media/streaming.24eb459d.png",
+    "static/media/streaming2.7bbbd89c.png": "/static/media/streaming2.7bbbd89c.png",
+    "static/media/streaming3.5785c94f.png": "/static/media/streaming3.5785c94f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e744e3f7.js",
+    "static/js/2.e67a0990.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cd602b09.chunk.js"
+  ]
+}
